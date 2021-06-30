@@ -1,10 +1,6 @@
-# AStarPathFinding
-
-This Project solves the shortest distance between two points in a grid illustrating A* path finding algorithm
+# PathFinding_game
 
 This project runs only on python 3.x
-
-dependencies: pygame
 
 steps to follow:
   Download or clone the repository to your local machine
@@ -14,5 +10,4 @@ steps to follow:
 
 window.exe file is created by using pyinstaller which can run in windows environment even without python installed
 
-![alt text](https://github.com/pavan-aeturi/AStarPathFinding/blob/master/ezgif.com-video-to-gif.gif?raw=true)
 # Pathfinding_game
