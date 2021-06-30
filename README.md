@@ -9,5 +9,3 @@ steps to follow:
   (python window.py windows)
 
 window.exe file is created by using pyinstaller which can run in windows environment even without python installed
-
-# Pathfinding_game
